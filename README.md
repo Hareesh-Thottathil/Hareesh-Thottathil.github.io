@@ -1,2 +1,2 @@
-# hareesht.github.io
+# Hareesh-Thottathil.github.io
 My Portfolio Website
